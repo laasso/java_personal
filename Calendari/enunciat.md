@@ -25,5 +25,5 @@ Para ilustrar estos pasos, consideremos el diseño de una agenda que permita con
 ### Descripción del Escenario
 
 El concepto de una agenda se asemeja al de un libro donde se pasan páginas, cada una correspondiendo a un día. En cada página, se pueden registrar citas programadas para horas específicas.
-
+E
 Este escenario proporciona la base para aplicar los pasos mencionados anteriormente en el diseño de la agenda orientada a objetos.
